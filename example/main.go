@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/pushax/go-mh-z19"
 	"log"
-	"mhz19-sensor/mhz19"
 	"time"
 )
 

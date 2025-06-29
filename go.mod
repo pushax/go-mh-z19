@@ -1,4 +1,4 @@
-module mhz19-sensor
+module github.com/pushax/go-mh-z19
 
 go 1.23.0
 
